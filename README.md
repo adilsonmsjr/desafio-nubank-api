@@ -70,32 +70,32 @@ POST /contato
 
 ---
 
-##  Como executar o projeto
+## Como executar o projeto
 
-### 📦 Pré-requisitos
+### Pré-requisitos
 - Java 17+
 - Maven
 - Docker (opcional)
 
 ---
 
-###  Docker (recomendado)
+###  Docker
 
 docker-compose up -d
 
 ### Executando localmente
 
-git clone https://github.com/seu-usuario/desafio-nubank-api.git
-cd seu-repo
-mvn spring-boot:run
+- git clone https://github.com/seu-usuario/desafio-nubank-api.git
+- cd seu-repo
+- mvn spring-boot:run
 
 ###  Testes
 
 mvn test
 
 Testes com:
-JUnit 5
-Mockito
+- JUnit 5
+- Mockito
 
 ###  Documentação Swagger
 
@@ -110,10 +110,6 @@ Uso de DTOs para isolamento da entidade
 Tratamento global de exceções
 Relacionamento JPA bem definido
 Código testável (Service desacoplado)
-
-### Swagger UI
-
-![Swagger](./images/swagger.png)
 
 ###  Autor
 
