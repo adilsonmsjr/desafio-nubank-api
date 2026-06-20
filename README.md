@@ -87,7 +87,7 @@ docker-compose up -d
 
 - git clone
   ```text
-- https://github.com/seu-usuario/desafio-nubank-api.git
+  https://github.com/seu-usuario/desafio-nubank-api.git
   ```
 - cd seu-repo
 - mvn spring-boot:run
