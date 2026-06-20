@@ -108,11 +108,11 @@ Após iniciar a aplicação:
 
 ###  Boas práticas aplicadas
 
-Separação de responsabilidades (SRP)
-Uso de DTOs para isolamento da entidade
-Tratamento global de exceções
-Relacionamento JPA bem definido
-Código testável (Service desacoplado)
+- Separação de responsabilidades (SRP)
+- Uso de DTOs para isolamento da entidade
+- Tratamento global de exceções
+- Relacionamento JPA bem definido
+- Código testável (Service desacoplado)
 
 ###  Autor
 
