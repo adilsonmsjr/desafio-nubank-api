@@ -85,7 +85,10 @@ docker-compose up -d
 
 ### Executando localmente
 
-- git clone https://github.com/seu-usuario/desafio-nubank-api.git
+- git clone
+  ```text
+- https://github.com/seu-usuario/desafio-nubank-api.git
+  ```
 - cd seu-repo
 - mvn spring-boot:run
 
@@ -101,7 +104,7 @@ Testes com:
 
 Após iniciar a aplicação:
 
-http://localhost:8080/swagger-ui/index.html
+[Swagger UI](http://localhost:8080/swagger-ui/index.html)
 
 ###  Boas práticas aplicadas
 
